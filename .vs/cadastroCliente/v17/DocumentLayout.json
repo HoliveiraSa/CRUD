@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\excluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|c:\\users\\sarah.holiveira\\source\\repos\\cadastrocliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{387AB8DD-DEE1-4A9D-9577-2154BF184100}|cadastroCliente\\cadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Atualizar.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Atualizar.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Atualizar.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Atualizar.cs",
+              "RelativeToolTip": "cadastroCliente\\Atualizar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:34:07.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Cadastrar.cs",
+              "RelativeToolTip": "cadastroCliente\\Cadastrar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:32:59.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Excluir.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Excluir.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Excluir.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Excluir.cs",
+              "RelativeToolTip": "cadastroCliente\\Excluir.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:14:38.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consultar.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Consultar.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Consultar.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Consultar.cs",
+              "RelativeToolTip": "cadastroCliente\\Consultar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:04:03.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Excluir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Excluir.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Excluir.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Excluir.cs [Design]",
+              "RelativeToolTip": "cadastroCliente\\Excluir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:45:23.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Atualizar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Atualizar.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Atualizar.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Atualizar.cs [Design]",
+              "RelativeToolTip": "cadastroCliente\\Atualizar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:45:17.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consultar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Consultar.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Consultar.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Consultar.cs [Design]",
+              "RelativeToolTip": "cadastroCliente\\Consultar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:45:10.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "cadastroCliente\\Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:45:03.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Form1.cs",
+              "RelativeToolTip": "cadastroCliente\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:17:41.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "cadastroCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\sarah.holiveira\\source\\repos\\cadastroCliente\\cadastroCliente\\Form1.cs [Design]",
+              "RelativeToolTip": "cadastroCliente\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:00:20.443Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

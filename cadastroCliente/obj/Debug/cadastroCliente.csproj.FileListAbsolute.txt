@@ -1,0 +1,15 @@
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.exe.config
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.exe
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.pdb
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.csproj.AssemblyReference.cache
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.Properties.Resources.resources
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.csproj.GenerateResource.cache
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.exe
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.pdb
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.exe.config
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.telaCliente.resources
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.Atualizar.resources
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.Cadastrar.resources
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.Consultar.resources
+C:\Users\sarah.holiveira\source\repos\cadastroCliente\cadastroCliente\obj\Debug\cadastroCliente.Excluir.resources
